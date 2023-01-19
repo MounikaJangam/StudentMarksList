@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "activities": "Kabaddi",
+      "social": 67,
+      "science": 87,
+      "maths": 59,
+      "hindi": 65,
+      "telugu": 66,
+      "english": 50,
+      "rollnumber": 1,
+      "name": "JMounika",
+      "total marks": "700",
+      "id": 0.22989274786203873
+    },
+    {
+      "activities": "Kabaddi",
+      "social": 67,
+      "science": 89,
+      "maths": 59,
+      "hindi": 65,
+      "telugu": 76,
+      "english": 98,
+      "rollnumber": 2,
+      "name": "Syamala",
+      "total marks": "700",
+      "id": 0.8508622301447053
+    },
+    {
+      "activities": "swimming",
+      "social": 89,
+      "science": 87,
+      "maths": 89,
+      "hindi": 89,
+      "telugu": 66,
+      "english": 98,
+      "rollnumber": 3,
+      "name": "Sindhu",
+      "total marks": "700",
+      "id": 0.23475266821679286
+    },
+    {
+      "activities": "High Jump",
+      "social": 67,
+      "science": 87,
+      "maths": 89,
+      "hindi": 89,
+      "telugu": 66,
+      "english": 89,
+      "rollnumber": 4,
+      "name": "Sashi",
+      "total marks": "678",
+      "id": 0.6052766269269447
+    },
+    {
+      "name": "Ramarao",
+      "rollnumber": 5,
+      "english": 50,
+      "telugu": 66,
+      "hindi": 65,
+      "maths": 59,
+      "science": 87,
+      "social": 67,
+      "activities": "Kabaddi",
+      "total marks": "500",
+      "id": 0.6601092125524384
+    }
+  ]
+}

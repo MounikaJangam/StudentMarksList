@@ -1,0 +1,27 @@
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    &__toolbar{
+        margin-left:auto;
+        padding: 20px 60px;
+        &__buttonAdd{
+            background:#FFFFFF 0% 0% no-repeat padding-box;
+            border: 1px solid #396CC5;
+            border-radius: 16px;
+            opacity: 1;
+        }
+    }
+    &__tablewrapper{
+        width: 90%;
+        // margin: 10px 0;
+        background-color: #fff;
+        height: 400px;
+        box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.64);
+        border-radius: 1px;
+        &--entryactions>*{
+            margin: 0 4px;
+        }
+    }
+}

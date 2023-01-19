@@ -1,0 +1,35 @@
+.form {
+    padding: 50px; 
+    &_header {
+        h3 {
+            color: #396CC5;
+        }
+    }
+    &_container { 
+        width: 70%;
+        // margin: 10px 0;
+        background-color: #fff;
+        height: 430px;
+        padding: 30px;
+        margin: 0 auto;
+        box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.64);
+        border-radius: 10px;
+        .rowThree{
+            flex-flow: wrap;
+            display: grid;
+            gap: 1rem;
+            grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));         
+        }
+    }
+    &_footer {
+        padding-top: 1rem;
+        padding: 7px;
+        // text-align: center;
+    }
+}
+
+
+// custom styles for inputs
+label{
+    text-transform: capitalize;
+}
